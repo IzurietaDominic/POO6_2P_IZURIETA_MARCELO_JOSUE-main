@@ -18,7 +18,7 @@ git commit -m"comentario"
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 git branch -M main
-git remote add origin https://github.com/IzurietaDominic/POO6_1P_IZURIETA_MARCELO_JOSUE.git
+git remote add origin https://github.com/IzurietaDominic/POO6_2P_IZURIETA_MARCELO_JOSUE-main.git
 git push -u origin main
 
 
